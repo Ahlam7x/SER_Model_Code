@@ -27,9 +27,6 @@ This work is largely inspired by the [transformer-cnn-emotion-recognition](https
 
 ---
 
-
----
-
 ## **📚 Datasets Used**
 
 This model is evaluated on the following datasets:
@@ -40,7 +37,9 @@ This model is evaluated on the following datasets:
 2. **[ASVP-ESD V2](https://doi.org/10.5281/zenodo.7132783)**  
    Tientcheu Touko Landry Dejoli, Qianhua He, & Wei Xie. (2021). Audio, Speech and Vision Processing Lab Emotional Sound Database (ASVP-ESD). [DOI: 10.5281/zenodo.7132783](https://doi.org/10.5281/zenodo.7132783)
    
-3. **[ShEMo] Mohamad Nezami, Omid and Jamshid Lou, Paria and Karami, Mansoureh. (2019). ShEMO: A large-scale validated database for Persian speech emotion detection. Available on Kaggle: ShEMo Dataset on Kaggle
+3. **[ShEMo](https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database)**  
+   Mohamad Nezami, Omid and Jamshid Lou, Paria and Karami, Mansoureh. (2019). ShEMO: A large-scale validated database for Persian speech emotion detection. Available on Kaggle: [ShEMo Dataset on Kaggle](https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database)
+
 ---
 
 
