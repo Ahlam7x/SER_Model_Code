@@ -1,6 +1,3 @@
-Here's an organized and professional version of your README section, avoiding repetition and including links to the datasets used:
-
----
 
 # **Speech Emotion Recognition (SER) Model**
 
