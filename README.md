@@ -27,13 +27,25 @@ This work is largely inspired by the [transformer-cnn-emotion-recognition](https
 
 ---
 
+
+---
+
 ## **📚 Datasets Used**
 
 This model is evaluated on the following datasets:
 
-1. **[ASVP-ESD V1](https://github.com/your-link-to-ASVP-ESD-V1)**
-2. **[ASVP-ESD V2](https://github.com/your-link-to-ASVP-ESD-V2)**
-3. **[ShEmo](https://github.com/your-link-to-ShEmo)**
+1. **[ASVP-ESD V1](https://doi.org/10.5281/zenodo.3782416)**  
+   Tientcheu Touko Landry Dejoli, Qianhua He, & Wei Xie. (2020). Audio, Speech and Vision Processing Lab Emotional Sound Database (ASVP-ESD). [DOI: 10.5281/zenodo.3782416](https://doi.org/10.5281/zenodo.3782416)
+   
+2. **[ASVP-ESD V2](https://doi.org/10.5281/zenodo.7132783)**  
+   Tientcheu Touko Landry Dejoli, Qianhua He, & Wei Xie. (2021). Audio, Speech and Vision Processing Lab Emotional Sound Database (ASVP-ESD). [DOI: 10.5281/zenodo.7132783](https://doi.org/10.5281/zenodo.7132783)
+   
+3. **[ShEMo](https://doi.org/10.1007/s10579-018-9427-x)**  
+   Mohamad Nezami, Omid and Jamshid Lou, Paria and Karami, Mansoureh. (2019). ShEMO: A large-scale validated database for Persian speech emotion detection. Language Resources and Evaluation, 53(1), 1-16. [DOI: 10.1007/s10579-018-9427-x](https://doi.org/10.1007/s10579-018-9427-x)
+
+---
+
+This version of the README now includes the correct and properly formatted links to each dataset used in your model evaluation.
 
 These datasets provide a diverse range of speech samples, including multiple emotions, speakers, and languages, which enables thorough evaluation of the model’s performance.
 
