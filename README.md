@@ -9,3 +9,11 @@ This repository contains the implementation of a **Speech Emotion Recognition (S
 - **Adding Co-Attention:** To combine features from different models.  
 - **Applying on Three Datasets:** ASVP-ESD V1, ASVP-ESD V2, and ShEmo for broader evaluation.  
  
+## 📜 Acknowledgement  
+
+This work is inspired by [transformer-cnn-emotion-recognition](https://github.com/IliaZenkov/transformer-cnn-emotion-recognition) by **Ilia Zenkov**.
+
+### Our Contributions:
+- **Co-Attention Integration:** Added a Co-Attention mechanism for advanced feature fusion.  
+- **Multi-Dataset Application:** Applied the model on ASVP-ESD V1, ASVP-ESD V2, and ShEmo datasets.  
+- **Improved Accuracy:** Enhanced emotion classification by combining MFCC and Mel spectrogram features.  
