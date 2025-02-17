@@ -40,12 +40,9 @@ This model is evaluated on the following datasets:
 2. **[ASVP-ESD V2](https://doi.org/10.5281/zenodo.7132783)**  
    Tientcheu Touko Landry Dejoli, Qianhua He, & Wei Xie. (2021). Audio, Speech and Vision Processing Lab Emotional Sound Database (ASVP-ESD). [DOI: 10.5281/zenodo.7132783](https://doi.org/10.5281/zenodo.7132783)
    
-3. **[ShEMo](https://doi.org/10.1007/s10579-018-9427-x)**  
-   Mohamad Nezami, Omid and Jamshid Lou, Paria and Karami, Mansoureh. (2019). ShEMO: A large-scale validated database for Persian speech emotion detection. Language Resources and Evaluation, 53(1), 1-16. [DOI: 10.1007/s10579-018-9427-x](https://doi.org/10.1007/s10579-018-9427-x)
-
+3. **[ShEMo] Mohamad Nezami, Omid and Jamshid Lou, Paria and Karami, Mansoureh. (2019). ShEMO: A large-scale validated database for Persian speech emotion detection. Available on Kaggle: ShEMo Dataset on Kaggle
 ---
 
-This version of the README now includes the correct and properly formatted links to each dataset used in your model evaluation.
 
 These datasets provide a diverse range of speech samples, including multiple emotions, speakers, and languages, which enables thorough evaluation of the model’s performance.
 
