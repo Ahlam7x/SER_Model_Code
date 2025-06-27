@@ -47,3 +47,28 @@ These datasets provide a diverse range of speech samples, including multiple emo
 
 ---
 
+## **🔁 Reproducibility Information**
+To enable reproducibility of our experiments, we provide the following details:
+
+Environment:
+The code was developed and tested using Python 3.8, with experiments run on a machine using PyTorch 1.13. We recommend using a virtual environment:
+
+bash
+Copy
+Edit
+
+pip install numpy pandas librosa matplotlib scikit-learn torch torchvision torchaudio
+
+
+python3 -m venv venv             
+source venv/bin/activate         
+pip install -r requirements.txt
+torch
+matplotlib
+
+numpy
+pandas
+librosa
+ipython
+webrtcvad
+
